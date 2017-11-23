@@ -3,7 +3,7 @@
 combination_dictionary Es un script escrito totalmente en python que te permitira generar correos electronico apartir de dos listas de datos.
 
 
-Ejemplo de uso para extraer numeros telefonicos almacenados en navegador opera en mac os x
+Ejemplo de uso para generar la lista de correos electronicos
 ```
 python combination_dictionary.py --dic1 name.txt --dic2 apellido.txt --sep "_" --domain "@mydomain.com.co" --output milist.txt
 
